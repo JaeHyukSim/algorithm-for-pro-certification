@@ -1,4 +1,2 @@
-﻿  backjoon2004_조합_0의_개수.cpp
-C:\Users\tlnzl\source\repos\AlgorithmForProCertification_SamsungElectronic\AlgorithmForProCertification_SamsungElectronic\backjoon2004_조합_0의_개수.cpp(15,20): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\tlnzl\source\repos\AlgorithmForProCertification_SamsungElectronic\AlgorithmForProCertification_SamsungElectronic\backjoon2004_조합_0의_개수.cpp(15,14): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+﻿  backjoon1904_01타일.cpp
   AlgorithmForProCertification_SamsungElectronic.vcxproj -> C:\Users\tlnzl\source\repos\AlgorithmForProCertification_SamsungElectronic\Debug\AlgorithmForProCertification_SamsungElectronic.exe

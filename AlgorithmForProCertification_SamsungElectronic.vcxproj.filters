@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="backjoon2004_조합_0의_개수.cpp">
+    <ClCompile Include="backjoon1904_01타일.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
